@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
 body {
     width: 960px;
     font-family: Arial, 'Helvetica Nue' Helvetica, sans-serif; 
